@@ -12,10 +12,11 @@
 	<artifactId>reservation-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>reservation-service</name>
-	<description>Reactive Revolution</description>
+	<description>Reactive Revolution Reservation Service</description>
 
 	<properties>
 		<java.version>15</java.version>
+		<maven.compiler.release>14</maven.compiler.release>
 	</properties>
 
 	<dependencies>
